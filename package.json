@@ -1,7 +1,7 @@
 {
   "name": "hubot-boot-me",
   "description": "A hubot script that returns information about spring boot apps in slack",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "author": "gambtho <thomas_gamble@homedepot.com>",
   "license": "Apache-2.0",
 
@@ -9,11 +9,11 @@
 
   "repository": {
     "type": "git",
-    "url": "git://github.com/hubot-scripts/hubot-boot-me.git"
+    "url": "git://github.com/gambtho/hubot-boot-me.git"
   },
 
   "bugs": {
-    "url": "https://github.com/hubot-scripts/hubot-boot-me/issues"
+    "url": "https://github.com/gambtho/hubot-boot-me/issues"
   },
 
   "dependencies": {
