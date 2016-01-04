@@ -20,7 +20,4 @@ Then add **hubot-boot-me** to your `external-scripts.json`:
 
 ## Sample Interaction
 
-```
-user1>> hubot hello
-hubot>> hello!
-```
+![Example Image](./example.png)
