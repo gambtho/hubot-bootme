@@ -20,4 +20,8 @@ Then add **hubot-boot-me** to your `external-scripts.json`:
 
 ## Sample Interaction
 
+```
+hubot bootme http://willitconnect.cfapps.io
+```
+
 ![Example Image](./example.png)
